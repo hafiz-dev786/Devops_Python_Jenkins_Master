@@ -1,8 +1,6 @@
 devops-python-jenkins
 =====================
 
-Source code for Singapore Devops meetup presentation on Jenkins automation with Python
-
 This project uses following Open Source libraries and products:
 
 * Jenkins (http://www.jenkins-ci.org)
